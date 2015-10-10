@@ -1,4 +1,3 @@
-# datasci-cub
 ## Coursera Data Science specialization
 ### Data Scientist's Toolbox
 I want to learn many things from this course
